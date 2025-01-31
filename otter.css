@@ -1,0 +1,29 @@
+
+body{
+    background-color: black;
+    font-family: "Arimo", serif;
+}
+
+
+.card{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 1.3rem;
+    background-color: white; 
+    line-height: 1.5rem;
+    max-width: 19rem;
+    border-radius: 0.5rem;
+}
+
+#heading{
+    font-size: 2rem;
+    padding: 1.3rem;
+    max-width: 18rem;
+    background-color: rgb(214, 10, 112);
+    border-radius: 0.4rem;
+    position: relative;
+    padding-left: 2rem;
+    bottom: 2.5rem;
+}
